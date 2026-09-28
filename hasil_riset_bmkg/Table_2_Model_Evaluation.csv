@@ -1,0 +1,5 @@
+Configuration,R2 Score (Test),RMSE (°C),5-Fold CV R2 (Mean ± Std),Training Time,Prediction Time
+Random Forest (All 19 Features),0.9508,0.4286,0.9470 ± 0.0056,1.29 s,0.020 s
+Linear Regression (All 19 Features),0.9272,0.5213,0.9249 ± 0.0057,0.00 s,0.000 s
+Ablation: Random Forest (w/o Heat Index),0.9506,0.4294,-,-,-
+Ablation: Linear Regression (w/o Heat Index),0.9273,0.5209,-,-,-

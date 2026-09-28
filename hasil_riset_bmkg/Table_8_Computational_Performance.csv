@@ -1,0 +1,4 @@
+Aspect,Random Forest,Linear Regression
+Training Time,1.29 s,0.00 s
+Prediction Time (Batch),0.020 s,0.000 s
+Model File Size on Disk,18.93 MB,0.8 KB

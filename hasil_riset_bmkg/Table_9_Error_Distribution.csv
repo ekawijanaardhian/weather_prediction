@@ -1,0 +1,7 @@
+Metric,Random Forest,Linear Regression
+Mean Error,-0.0100°C,-0.0224°C
+Std Error,0.4288°C,0.5212°C
+Max Error,+1.9010°C,+2.3863°C
+Min Error,-1.4210°C,-1.5879°C
+Error < 0.5°C (%),78.7%,72.5%
+Error < 1.0°C (%),97.7%,94.1%

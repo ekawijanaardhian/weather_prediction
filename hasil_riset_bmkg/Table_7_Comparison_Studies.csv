@@ -1,0 +1,6 @@
+Study,Method,Metric,Performance,Scope
+Sari & Wibowo [11],Neural Network,RMSE,1.20°C,Jakarta Temperature
+Rahman et al. [9],SVM,Accuracy,87.30%,Java Rainfall
+Kusuma et al. [14],K-Means + RF,Accuracy,92.10%,Sumatra Monsoon
+This Study,Linear Regression,R² Score / RMSE,92.72% / 0.5213°C,"Multi-region, National"
+This Study,Random Forest,R² Score / RMSE,95.08% / 0.4286°C,"Multi-region, National"

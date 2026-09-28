@@ -1,0 +1,10 @@
+Test Region,R2 Score,RMSE (C),Performance Drop (%)
+Banten,0.7394,0.5450,-25.51%
+South Sulawesi,0.3900,0.9330,-60.71%
+Central Java,0.8193,0.4792,-17.46%
+North Sumatra,0.6099,0.6169,-38.56%
+Aceh,0.5656,0.8455,-43.03%
+NTB,0.6372,0.6463,-35.81%
+West Java,-5.6308,2.2330,-667.24%
+DI Yogyakarta,0.8932,0.3177,-10.02%
+Average (All 8 Regions),-0.1220,0.8271,-112.29%

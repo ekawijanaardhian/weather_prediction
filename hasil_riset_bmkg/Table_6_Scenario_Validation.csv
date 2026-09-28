@@ -1,0 +1,4 @@
+Scenario,Input Conditions,RF Prediction,LR Prediction,Avg Prediction
+Jakarta Rainy Season,"Month:1, Humidity:80%, Temp_max:32°C",27.28°C,27.50°C,27.39°C
+Medan Dry Season,"Month:7, Humidity:65%, Temp_max:35°C",28.78°C,29.09°C,28.93°C
+Bandung Normal,"Month:4, Humidity:70%, Temp_max:28°C",24.36°C,24.13°C,24.24°C
